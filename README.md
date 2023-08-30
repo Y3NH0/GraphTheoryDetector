@@ -1,3 +1,10 @@
+# TODO
+[] re-construct with package malwareDetector
+[] modify the input format
+	1. batch
+	2. type, include bin, raw feature, feature vector
+[] testing
+
 # Graph Theory Detector
 
 > ref. ALASMARY, Hisham, et al. Analyzing and detecting emerging Internet of Things malware: A graph-based approach. *IEEE Internet of Things Journal*, 2019, 6.5: 8977-8988.
