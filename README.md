@@ -1,10 +1,10 @@
 # TODO
 
-[] re-construct with package malwareDetector
-[] modify the input format
-	1. batch
-	2. type, include bin, raw feature, feature vector
-[] testing
+1. re-construct with package malwareDetector
+2. modify the input format
+	- batch
+	- type, include bin, raw feature, feature vector
+3. testing
 
 # Graph Theory Detector
 
