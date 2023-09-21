@@ -1,0 +1,1 @@
+from malwareDetector import detector
