@@ -64,7 +64,7 @@ def write_output(input_path,output_path,result,labels):
 
     # write the result 
     with open(output_path,'a+') as f:
-        line = os.path.basename(input_path) + ', '
+        line = os.path.basename(input_path) + ','
         line += ','.join(list(str(i) for i in result))
         line += '\n'
         f.write(line)
