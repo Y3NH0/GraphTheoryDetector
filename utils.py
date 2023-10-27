@@ -57,8 +57,8 @@ def write_output(input_path,output_path,result,labels):
     # init the columns of this table if it is a new csv file
     if not os.path.exists(output_path):
         with open(output_path,'w') as f:
-            line = 'Filename, '
-            line += ', '.join(labels)
+            line = 'Filename,'
+            line += ','.join(labels)
             line += '\n'
             f.write(line)
 
